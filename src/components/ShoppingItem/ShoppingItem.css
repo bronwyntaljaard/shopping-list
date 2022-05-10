@@ -1,0 +1,12 @@
+.shopping-item {
+  margin: 0.5rem 0;
+  background: white;
+  border-color: #a9a39c;
+  border-style: solid;
+  /* box-shadow: 0 2px 8px rgba(129, 129, 129, 0.2); */
+  color: #66625e;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1rem;
+}
